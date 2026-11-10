@@ -1,6 +1,7 @@
 # tw4 Homebrew tap
 
 ```bash
+brew trust tw4/tap   # Homebrew 7+ asks you to trust third-party taps once
 brew install --cask tw4/tap/lumela
 ```
 
